@@ -10,7 +10,7 @@
         <table class=" text-white w-full">
           <thead>
               <tr>
-              <th class=" px-4 py-2 w-1/5">Project Code sample</th>
+              <th class=" px-4 py-2 w-1/5">Project Code</th>
               <th class=" px-4 py-2 w-1/5">Title</th>
               <th class=" px-8 py-2 w-1/5">Description</th>
               <th class=" px-4 py-2 w-1/5">Due</th>
